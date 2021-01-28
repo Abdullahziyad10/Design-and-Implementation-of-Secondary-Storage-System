@@ -1,0 +1,10 @@
+$ ./client
+Socket Created
+Connected
+Enter Message: This is a dumy message to be reversed
+Server Message: desrever eb ot egassem ymud a si sihT
+Enter Message: Hello how are you?
+Server Message: ?uoy era woh olleH
+Enter Message: DISCONNECT
+Server Message: TCENNOCSID
+$
