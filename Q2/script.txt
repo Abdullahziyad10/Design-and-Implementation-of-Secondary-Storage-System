@@ -1,0 +1,24 @@
+$ ./client
+Socket Created
+Connected
+Enter Message: -l
+Server Message: total 56
+-rwxrwxr-x 1 ubuntu ubuntu 17272 Nov 21 10:05 client
+-rw-rw-r-- 1 ubuntu ubuntu  2900 Nov 20 16:51 client.c
+-rw-rw-r-- 1 ubuntu ubuntu   111 Nov 21  2020 Makefile
+-rwxrwxr-x 1 ubuntu ubuntu 17784 Nov 21 10:05 server
+-rw-rw-r-- 1 ubuntu ubuntu  5675 Nov 21  2020 server.c
+
+Enter Message: -la
+Server Message: total 64
+drwxrwxr-x 2 ubuntu ubuntu  4096 Nov 21 10:05 .
+drwxrwxr-x 7 ubuntu ubuntu  4096 Nov 21 09:41 ..
+-rwxrwxr-x 1 ubuntu ubuntu 17272 Nov 21 10:05 client
+-rw-rw-r-- 1 ubuntu ubuntu  2900 Nov 20 16:51 client.c
+-rw-rw-r-- 1 ubuntu ubuntu   111 Nov 21  2020 Makefile
+-rwxrwxr-x 1 ubuntu ubuntu 17784 Nov 21 10:05 server
+-rw-rw-r-- 1 ubuntu ubuntu  5675 Nov 21  2020 server.c
+
+Enter Message: DISCONNECT
+$ 
+
