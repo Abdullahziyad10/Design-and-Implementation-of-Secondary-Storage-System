@@ -1,0 +1,21 @@
+$./client
+Socket Created
+Connected
+Enter Message: C abc.txt
+Server Message: Successful!
+Enter Message: W abc.txt 20 This is where we write dummy data
+Server Message: Successful!
+Enter Message: R abc.txt
+Server Message: This is where we write dummy data
+Enter Message: L 0
+Server Message: abc.txt
+Enter Message: C abd.txt
+Server Message: Successful!
+Enter Message: W abd.txt 50 kgakasbvckhavsckhvskcjvakhvckvak
+Server Message: Successful!
+Enter Message: R abd.txt
+Server Message: kgakasbvckhavsckhvskcjvakhvckvak
+Enter Message: L 0
+Server Message: abc.txtabd.txt
+Enter Message: DISCONNECT
+$
